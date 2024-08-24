@@ -6,7 +6,7 @@
   },
   "group": "botania:vine_and_lily_pad_cycle",
   "input": {
-    "item": "biomesoplenty:willow_vine"
+    "item": "biomesoplenty:spanish_moss"
   },
   "mana": 320,
   "output": {
