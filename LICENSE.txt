@@ -1,8 +1,9 @@
 This is a fan made datapack is open source and protected by copyleft.
-Since it is pretty useless without the Botania and Biomes O'Plenty mods, you will have to agree to their terms and conditions anyway.
+Further modification and redistribution of this datapack is permitted, as long as you publish it under a similar copyleft clause and includes attribution to me, switchbadger, as the original author.
+Since it is pretty useless without the Botania and Biomes O'Plenty mods, you will have to agree to their terms and conditions and licenses to use it.
 
 This data pack was tested exactly once on a single build of Minecraft with Botania and Biomes O'Plenty, amongst other mods, installed.
-The author in no way claims any liability for it working, being updated, or not destroying anything of yours.
+The author in no way claims any liability for it functioning reliably, functioning at all, being updated, and  not destroying anything of yours.
 Use and enjoy at your own risk.
 
 All intellectual property from Botania (https://botaniamod.net/index.html) belongs to Vazkii (https://vazkii.net/)
