@@ -1,0 +1,5 @@
+This is a fan made datapack is open source and protected by copyleft.
+Since it is pretty useless without the Botania and Biomes O'Plenty mods, you will have to agree to their terms and conditions anyway.
+
+All intellectual property from Botania (https://botaniamod.net/index.html) belongs to Vazkii (https://vazkii.net/)
+All intellectual property from Biomes O'Plenty (https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) belong to Glitchfiend Mods 
