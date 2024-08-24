@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "botania:log_cycle",
+  "input": {
+    "item": "biomesoplenty:umbran_log"
+  },
+  "mana": 40,
+  "output": {
+    "item": "biomesoplenty:hellbark_log"
+  }
+}

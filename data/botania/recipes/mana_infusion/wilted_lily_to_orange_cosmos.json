@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "botania:flower_cycle",
+  "input": {
+    "item": "biomesoplenty:wilted_lily"
+  },
+  "mana": 400,
+  "output": {
+    "item": "biomesoplenty:orange_cosmos"
+  }
+}

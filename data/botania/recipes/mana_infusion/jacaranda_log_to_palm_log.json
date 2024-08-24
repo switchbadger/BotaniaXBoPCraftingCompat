@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "group": "botania:log_cycle",
+  "input": {
+    "item": "biomesoplenty:jacaranda_log"
+  },
+  "mana": 40,
+  "output": {
+    "item": "biomesoplenty:palm_log"
+  }
+}
